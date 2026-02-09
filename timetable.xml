@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+
+<timeTable>
+    <complexes>
+        <complex code="C1">
+            <name>Спортивный комплекс Олимп</name>
+            <address>г. Москва, ул. Ленина, 10</address>
+        </complex>
+        <complex code="C2">
+            <name>Учебный центр Прогресс</name>
+            <address>г. Москва, пр. Мира, 25</address>
+        </complex>
+    </complexes>
+
+    <lessons>
+        <lesson no="1" complex="C1">
+            <date>2026-09-02</date>
+            <time>10:00</time>
+        </lesson>
+        <lesson no="2" complex="C2">
+            <date>2026-09-03</date>
+            <time>12:30</time>
+        </lesson>
+    </lessons>
+</timeTable>
